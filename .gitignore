@@ -138,5 +138,5 @@ dmypy.json
 cython_debug/
 
 #pycharm
-.idea
-.__pycache__
+.idea/
+.__pycache__/
